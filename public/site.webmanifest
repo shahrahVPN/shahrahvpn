@@ -40,7 +40,7 @@
   ],
   "screenshots": [
     {
-      "src": "./welcom.png",
+      "src": "./welcom.webp",
       "sizes": "1536x1024",
       "type": "image/png",
       "form_factor": "wide",
